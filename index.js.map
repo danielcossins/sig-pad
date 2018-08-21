@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,sCAAsC,CAAC;AAC1E,OAAO,EAAE,qBAAqB,EAAE,MAAM,yCAAyC,CAAC","file":"index.js","sourceRoot":"","sourcesContent":["export { SignaturePadModule } from './signature-pad/signature-pad.module';\nexport { SignaturePadComponent } from './signature-pad/signature-pad.component';"]}

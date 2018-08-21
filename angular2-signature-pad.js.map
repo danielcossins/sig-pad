@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/angular2-signature-pad.ts"],"names":[],"mappings":"AAAA,cAAc,SAAS,CAAC","file":"angular2-signature-pad.js","sourceRoot":"","sourcesContent":["export * from './index';"]}

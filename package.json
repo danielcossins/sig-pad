@@ -1,0 +1,43 @@
+{
+  "_from": "angular2-signature-pad",
+  "_id": "angular2-signature-pad@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-nhgNOBW2h0wRkrFahlIXOSuTVsE=",
+  "_location": "/angular2-signature-pad",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angular2-signature-pad",
+    "name": "angular2-signature-pad",
+    "escapedName": "angular2-signature-pad",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-signature-pad/-/angular2-signature-pad-1.0.2.tgz",
+  "_shasum": "9e180d3815b6874c1192b15a865217392b9356c1",
+  "_spec": "angular2-signature-pad",
+  "_where": "C:\\Users\\Owner\\gamedev\\clitest\\my-app",
+  "bundleDependencies": false,
+  "dependencies": {
+    "signature_pad": "^1.5.3"
+  },
+  "deprecated": false,
+  "description": "[![Build Status][travis-badge]][travis-badge-url] [![npm][circleci-badge-url]][circleci-url] [![version][npm-badge-url]][npm-url] [![npm][license-badge-url]][license-url] [![npm][dep-badge-url]][dep-url]",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "bundles/angular2-signature-pad.umd.js",
+  "module": "index.js",
+  "name": "angular2-signature-pad",
+  "peerDependencies": {
+    "@angular/common": "^4.0.0",
+    "@angular/core": "^4.0.0"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.2"
+}
