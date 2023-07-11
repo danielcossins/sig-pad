@@ -25,7 +25,7 @@
   "_where": "C:\\Users\\Owner\\gamedev\\clitest\\my-app",
   "bundleDependencies": false,
   "dependencies": {
-    "signature_pad": "^1.5.3"
+    "signature_pad": "4.1.5"
   },
   "deprecated": false,
   "description": "[![Build Status][travis-badge]][travis-badge-url] [![npm][circleci-badge-url]][circleci-url] [![version][npm-badge-url]][npm-url] [![npm][license-badge-url]][license-url] [![npm][dep-badge-url]][dep-url]",
