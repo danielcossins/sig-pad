@@ -35,8 +35,8 @@
   "module": "index.js",
   "name": "angular2-signature-pad",
   "peerDependencies": {
-    "@angular/common": "^4.0.0",
-    "@angular/core": "^4.0.0"
+    "@angular/common": "^16.1.0",
+    "@angular/core": "^16.1.0"
   },
   "typings": "index.d.ts",
   "version": "1.0.2"
